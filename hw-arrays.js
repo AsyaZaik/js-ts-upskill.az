@@ -48,4 +48,6 @@ const flat1 = {
 
     flatArray.shift();
 
-    console.log (flatArray);
+      console.log (flatArray);
+
+
