@@ -40,3 +40,5 @@ function getShortFlatInfo(flat) {
 }
 
 console.log(getShortFlatInfo(flat1))
+
+
