@@ -1,4 +1,4 @@
-const flat1 = {
+   const flat1 = {
     address: '944 Vale Dr.Mocksville',
     space: 24,
     numberOfRooms: 1,
